@@ -1,5 +1,9 @@
 
 # Exp 3 Experimental Verification of IV Characteristics of LED and LASER
+
+## Name : Mathan Kailash S
+## Reg No : 212223060156
+
 # Fiber Optic LED Characteristics and Photo Detector Response
 
 ## 🎯 AIM
