@@ -68,16 +68,19 @@ V. This is the electrical power supplied to the LED. Data sheets for the LED spe
 
 ### LED Forward Characteristics
 
-| Forward Voltage Vf (V) | Forward Current If (mA) |
-|------------------------|-------------------------|
-|                        |                         |
-|                        |                         |
-|                        |                         |
+<img width="1096" height="1280" alt="image" src="https://github.com/user-attachments/assets/76dd48a3-55dc-4b8d-bfc3-ee608114b61e" />
+
+
+![WhatsApp Image 2026-03-22 at 6 16 12 PM](https://github.com/user-attachments/assets/251d5173-d7e6-4f45-b51b-c3b5d949c680)
+
 
 ---
 
 ## 📈 MODEL GRAPH
-*(Insert graph of Vf vs If here)*
+
+<img width="982" height="1280" alt="image" src="https://github.com/user-attachments/assets/6d7957a1-81a0-478a-945e-7c89691f8e61" />
+
+
 
 ---
 
